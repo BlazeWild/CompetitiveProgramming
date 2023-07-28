@@ -1,2 +1,2 @@
 # CompetitiveProgramming
-HackerRank
+This is the beginning of my cp journey
